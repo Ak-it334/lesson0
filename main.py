@@ -10,8 +10,8 @@ print(2 * (2 + 2))
 print((2 * 2 + 2) == (2 * (2 + 2)))
 
 #4st program
-float('123.456')
-print(int(123.456 * 10))
-print(1234 % 10)
+a = '123.456'
+print(int(float((a) * 10) % 10))
+
 
 
