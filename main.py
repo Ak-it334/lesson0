@@ -10,7 +10,7 @@ print(2 * (2 + 2))
 print((2 * 2 + 2) == (2 * (2 + 2)))
 
 #4st program
-bool('123.456')
+float('123.456')
 print(int(123.456 * 10))
 print(1234 % 10)
 
